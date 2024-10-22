@@ -1,11 +1,13 @@
 # TestRepo 
-up2194051 - forester302
+ - up2194051 - forester302
 
-up2211837 - Theskyguard4
+ - up2195798 - JoshNichols1
 
-up219401 - Ziyanasto
+ - up2211837 - Theskyguard4
 
-up2245678 - willdavies830
+ - up2194801 - Ziyanasto
+
+ - up2245678 - willdavies830
 
 ## How to commit from CLI
 - Switch to feature branch

@@ -9,6 +9,8 @@
 
  - up2245678 - willdavies830
 
+ - up2233199 -johanja04
+
 ## How to commit from CLI
 - Switch to feature branch
   - if branch exists `git checkout <BRANCH_NAME>`
